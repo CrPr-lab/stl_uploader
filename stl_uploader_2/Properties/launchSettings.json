@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "stl_uploader_2": {
+      "commandName": "Project",
+      "commandLineArgs": "F:\\PpP\\Загрузки\\X1.stl"
+    }
+  }
+}
